@@ -1,13 +1,11 @@
-# Route Planning Project
+![picture](map1.png)
 
-This repo contains the code for the Route Planning project. 
-This program searching, finds and plots the shortest path between two points on a map using real map data from the OpenStreeMap project. 
-The path searching by using the A* search algorithm and the user predefines the start and finish points by using x and y coordinates. 
+
+The Route Planner app, was made as part of Udacity's C++ Developer Nanodegree Program. The Route Planner allows users to search for the shortest path between two points on a map, using real map data from the OpenStreeMap project. 
+The path searching is made by using the A* search algorithm and the user predefines the start and finish points by using x and y coordinates. 
 The project extends the code from a [map rendering demo example](https://github.com/cpp-io2d/P0267_RefImpl/tree/master/P0267_RefImpl/Samples/maps) in the Github
 for the IO2D 2D Graphics rendering library in order to display the path on the map.
 
-
-![picture](map1.png)
 
 ## Cloning
 
